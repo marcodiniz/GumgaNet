@@ -1,0 +1,9 @@
+﻿{
+    "DefaultAdminUsername": "Administrator",
+    "DefaultAdminPassword": "!@#Mudar",
+    "Data": {
+        "DefaultConnection": {
+            "Connectionstring": "Server=(localdb)\\MSSQLLocalDB;Database=MoviesDatabase;Trusted_Connection=True;"
+        }
+    }
+}
